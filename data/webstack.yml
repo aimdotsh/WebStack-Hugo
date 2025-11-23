@@ -199,6 +199,8 @@
       logo: https://www.github.com/favicon.ico
       url: https://www.github.com/
       description: 这是我新增分类中的第二个网站
+    - term: 图标素材
+      links:
         - title: iconfont
           logo: iconfont.png
           url: http://www.iconfont.cn/
@@ -639,3 +641,15 @@
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
         
+
+- taxonomy: 我的新增分类
+  icon: fas fa-heart fa-lg
+  links:
+    - title: 我的网站1
+      logo: https://www.example.com/favicon.ico
+      url: https://www.example.com/
+      description: 这是我新增分类中的第一个网站
+    - title: 我的网站2
+      logo: https://www.github.com/favicon.ico
+      url: https://www.github.com/
+      description: 这是我新增分类中的第二个网站

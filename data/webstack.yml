@@ -33,6 +33,10 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
+    - title: 新增网站示例
+      logo: https://www.google.com/favicon.ico
+      url: https://www.google.com/
+      description: 这是一个新增的网站示例
     - title: 关注我们
       logo: 关注.jpg
       url: https://www.bioitee.com
@@ -183,6 +187,18 @@
           logo: Iconfinder.png
           url: https://www.iconfinder.com
           description: 2,100,000+ free and premium vector icons.
+
+- taxonomy: 我的新增分类
+  icon: fas fa-heart fa-lg
+  links:
+    - title: 我的网站1
+      logo: https://www.example.com/favicon.ico
+      url: https://www.example.com/
+      description: 这是我新增分类中的第一个网站
+    - title: 我的网站2
+      logo: https://www.github.com/favicon.ico
+      url: https://www.github.com/
+      description: 这是我新增分类中的第二个网站
         - title: iconfont
           logo: iconfont.png
           url: http://www.iconfont.cn/

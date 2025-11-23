@@ -1,4 +1,4 @@
-baseURL               = "https://aim.sh/"
+baseURL               = "https://aimnav.vercel.app/"
 languageCode          = "zh-CN"
 title                 = "aim"
 theme                 = "WebStack-Hugo"
@@ -11,7 +11,7 @@ publishDir            = "public"				# 站点静态文件保存目录
 [params]
     author        = "aim"
     description   = "aim,ai大师,ai大模型,ai 工具聚合"
-    upload        = "https://aim.sh"      # 左侧导航栏的"网站提交"
+    upload        = "https://aimnav.vercel.app"      # 左侧导航栏的"网站提交"
     about         = "./about"	          # 左侧导航栏的"关于导航"页面(./about)
     repository    = ""  
     enablePreLoad = false					# 网站完全打开前预加载动画
@@ -34,13 +34,13 @@ publishDir            = "public"				# 站点静态文件保存目录
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-    favicon           = "https://aim.sh/images/favicon.ico"
+    favicon           = "/images/favicon.ico"
     searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
-    logoExpandLight   = "https://aim.sh/images/favicon.ico"
-    logoExpandDark    = "https://aim.sh/images/favicon.ico"
-    logoCollapseLight = "https://aim.sh/images/favicon.ico"
-    logoCollapseDark  = "https://aim.sh/images/favicon.ico"
+    logoExpandLight   = "/images/favicon.ico"
+    logoExpandDark    = "/images/favicon.ico"
+    logoCollapseLight = "/images/favicon.ico"
+    logoCollapseDark  = "/images/favicon.ico"
     
 [markup.goldmark.renderer]
     unsafe = true
